@@ -1,0 +1,9 @@
+The feature I would look at is the ability to change user name
+
+-Create test to check if user name is different from the original name.
+-Create code to change user name.
+-Call Tests above to see if change has been made.
+-Create test to check if new name is valid, i.e. non-duplicate, no illigal characters, etc.
+by tryting to do all of those things.
+-Create input sanitation code
+-Integrate new code after it passes tests with existing profile page/settings page.
